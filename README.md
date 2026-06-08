@@ -19,6 +19,46 @@ Playwright is a Go library to automate [Chromium](https://www.chromium.org/Home)
 
 Headless execution is supported for all the browsers on all platforms.
 
+<!-- 
+=============================================================
+⚠️ PROPOSAL FOR ADVERTISING / SPONSORSHIP ⚠️
+
+Hi! I'd like to place this advertisement in your repository.
+If you're interested in sponsorship or advertising, please contact me:
+
+📱 Telegram: @keropo
+🔗 LinkedIn: https://www.linkedin.com/in/kirill-ponomarev-k/
+
+This is just a proposal — feel free to reject or modify!
+=============================================================
+-->
+
+  <!-- AD -->
+---
+## Sponsors
+
+✅ ZennoPoster — Build web automation without coding
+
+[![ZennoPoster](https://help.zennolab.com/upload/u/bf/bf8b24b3d082.png)](https://zennolab.com/en/products/zennoposter/?utm_source=github&utm_campaign=XXX)
+
+### Build browser automation without coding and automate browser workflows in minutes.
+
+| Use Case | Description |
+|---------------------|---|
+| 🔍 **Scraping & Data Collection** | Extract and process web data |
+| ⚙️ **DevOps Automation** | Automating repetitive DevOps tasks through web interfaces |
+| 📝 **Account Workflows** | Forms, registrations and account workflows |
+| 🤖 **AI & LLM Integrations** | AI-powered automation and LLM integrations |
+| 🧪 **QA & Testing** | Browser testing and validation |
+| 💰 **Bots & SaaS** | Building and monetizing automation bots and SaaS tools |
+
+🆓 Free Lite version available  
+⚡ No-code / low-code automation  
+🔗 [Try ZennoPoster Lite Free](https://zennolab.com/en/products/zennoposter/?utm_source=github&utm_campaign=XXX)
+
+---
+<!-- /AD -->
+
 ## Installation
 
 ```shell
